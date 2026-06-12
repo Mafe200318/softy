@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://softy18.netlify.app/sitemap.xml
